@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>shoot.mp3</file>
+        <file>bgSound.mp3</file>
+        <file>bomb.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>missile.png</file>
+        <file>background.jpg</file>
+        <file>enemy.png</file>
+        <file>enemyDead.png</file>
+        <file>playerTank.png</file>
+        <file>enemyTank.png</file>
+        <file>clash2.png</file>
+    </qresource>
+</RCC>
